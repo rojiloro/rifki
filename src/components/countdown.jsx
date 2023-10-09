@@ -67,7 +67,7 @@ function Countdown() {
                 <p>661001028119531</p>
               </div>
               <div className="w-1/2 flex justify-end">
-                <img src={Mandiri} alt="bri" className="w-[30%]" />
+                <img src={BRI} alt="bri" className="w-[30%]" />
               </div>
             </div>
             <div data-aos="fade-left" className="p-5 sm:w-[35%] w-[90%] mx-auto bg-white rounded-md shadow-lg hover:shadow-xl hover:scale-110 transition flex items-center">
