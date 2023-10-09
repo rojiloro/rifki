@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import BRI from "../assets/bri.png";
-import DANA from "../assets/dana.png";
+
 
 
 function Countdown() {
@@ -68,16 +68,6 @@ function Countdown() {
               </div>
               <div className="w-1/2 flex justify-end">
                 <img src={BRI} alt="bri" className="w-[30%]" />
-              </div>
-            </div>
-            <div data-aos="fade-left" className="p-5 sm:w-[35%] w-[90%] mx-auto bg-white rounded-md shadow-lg hover:shadow-xl hover:scale-110 transition flex items-center">
-              <div className="font-semibold text-start w-1/2 text-base">
-                <p className="font-semibold">Dana</p>
-                <p className="font-light">Rifkiyantoro</p>
-                <p>081237339956</p>
-              </div>
-              <div className="w-1/2 flex justify-end">
-                <img src={DANA} alt="bri" className="w-[30%]" />
               </div>
             </div>
           </div>
