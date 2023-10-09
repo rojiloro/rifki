@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
-import Mandiri from "../assets/mandiri.png";
+import BRI from "../assets/bri.png";
 import DANA from "../assets/dana.png";
-import QR from "../assets/qr dana ceritanya.png";
+
 
 function Countdown() {
   const tanggalPernikahan = new Date("2023-10-19T00:00:00");
@@ -62,9 +62,9 @@ function Countdown() {
           <div className="sm:flex block sm:m-0 mx-auto justify-evenly sm:p-28 p-4 ">
             <div data-aos="fade-right" className="p-5 sm:w-[35%] w-[90%] sm:my-0 my-5 mx-auto bg-white rounded-md shadow-lg hover:shadow-xl hover:scale-110 transition flex items-center">
               <div className="font-semibold text-start w-1/2 sm:text-base text-lg">
-                <p className="font-semibold">Mandiri</p>
+                <p className="font-semibold">BRI</p>
                 <p className="font-light">Rifkiyantoro</p>
-                <p>1850004966948</p>
+                <p>661001028119531</p>
               </div>
               <div className="w-1/2 flex justify-end">
                 <img src={Mandiri} alt="bri" className="w-[30%]" />
