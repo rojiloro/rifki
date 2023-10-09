@@ -63,7 +63,7 @@ function Countdown() {
             <div data-aos="fade-right" className="p-5 sm:w-[35%] w-[90%] sm:my-0 my-5 mx-auto bg-white rounded-md shadow-lg hover:shadow-xl hover:scale-110 transition flex items-center">
               <div className="font-semibold text-start w-1/2 sm:text-base text-lg">
                 <p className="font-semibold">BRI</p>
-                <p className="font-light">Rifkiyantoro</p>
+                <p className="font-light">Zumrotun Alfiyah</p>
                 <p>661001028119531</p>
               </div>
               <div className="w-1/2 flex justify-end">
