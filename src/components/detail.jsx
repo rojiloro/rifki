@@ -20,7 +20,7 @@ function Detail() {
               <img src={men} alt="" className="rounded-full w-56 h-56 " />
             </div>
             <div className="text-center w-1/4 sm:mt-10 -mt-56 sm:hidden visible mx-auto mb-10">
-              <p className="font-bold font-custom3 sm:text-3xl text-2xl mb-5">Rifkiyantoro</p>
+              <p className="font-bold font-custom3 sm:text-3xl text-2xl mb-5">Rifkiyantoro, S.Kom</p>
               <p>Bapak Miskur dan ibu Fatonah</p>
               <p>Karangsari, Batur, Banjarnegara</p>
             </div>
@@ -28,7 +28,7 @@ function Detail() {
               <img src={woman} alt="" className="rounded-full w-56 h-56" />
             </div>
             <div className="text-center w-1/4 sm:mt-10 mt-10 sm:hidden visible mx-auto mb-10">
-              <p className="font-bold font-custom3 sm:text-3xl text-2xl mb-5">Zumrotun Alfiyah, Alhz</p>
+              <p className="font-bold font-custom3 sm:text-3xl text-2xl mb-5">Zumrotun Alfiyah, S.Pd</p>
               <p>Bapak Suko Raharjo dan Ibu Siti Mainah</p>
               <p className="mt-1">Pejawaran Batur Banjarnegara</p>
             </div>
@@ -44,6 +44,11 @@ function Detail() {
               <p>Bapak Suko Raharjo dan Ibu Siti Mainah</p>
               <p className="mt-1">Pejawaran Batur Banjarnegara</p>
             </div>
+          </div>
+          <div>
+            <p>Merupakan suatu kehormatan dan kebahagiaan bagi kami</p>
+            <p>apabila Bapak/Ibu/Saudara/i berkenan hadir</p>
+            <p>untuk memberikan doa restu kepada kedua mempelai</p>
           </div>
           <div className="flex justify-center mt-10">
             <div className="sm:w-1/4 font-monserat  text-center sm:p-5 p-3 mr-4 bg-orange-200 rounded-lg hover:scale-110 transition cursor-pointer">
