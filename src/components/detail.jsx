@@ -45,7 +45,7 @@ function Detail() {
               <p className="mt-1">Pejawaran Batur Banjarnegara</p>
             </div>
           </div>
-          <div>
+          <div className="mt-10 text-center font-monserat">
             <p>Merupakan suatu kehormatan dan kebahagiaan bagi kami</p>
             <p>apabila Bapak/Ibu/Saudara/i berkenan hadir</p>
             <p>untuk memberikan doa restu kepada kedua mempelai</p>
